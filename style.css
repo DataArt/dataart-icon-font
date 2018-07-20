@@ -1,0 +1,701 @@
+@font-face {
+  font-family: 'Dataart-Icon-Font';
+  src:  url('fonts/Dataart-Icon-Font.eot?4a64tw');
+  src:  url('fonts/Dataart-Icon-Font.eot?4a64tw#iefix') format('embedded-opentype'),
+    url('fonts/Dataart-Icon-Font.ttf?4a64tw') format('truetype'),
+    url('fonts/Dataart-Icon-Font.woff?4a64tw') format('woff'),
+    url('fonts/Dataart-Icon-Font.svg?4a64tw#Dataart-Icon-Font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="da-if-"], [class*=" da-if-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Dataart-Icon-Font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.da-if-actions---home:before {
+  content: "\e900";
+}
+.da-if-actions---restore:before {
+  content: "\e901";
+}
+.da-if-actions---net:before {
+  content: "\e902";
+}
+.da-if-actions---settings-6-sided:before {
+  content: "\e903";
+}
+.da-if-actions---settings-8-sided:before {
+  content: "\e904";
+}
+.da-if-actions---like:before {
+  content: "\e905";
+}
+.da-if-actions---like-inactive:before {
+  content: "\e906";
+}
+.da-if-actions---bookmark:before {
+  content: "\e907";
+}
+.da-if-actions---bookmark-inactive:before {
+  content: "\e908";
+}
+.da-if-actions---bookmarks:before {
+  content: "\e909";
+}
+.da-if-actions---checked:before {
+  content: "\e90a";
+}
+.da-if-actions---checked-all:before {
+  content: "\e90b";
+}
+.da-if-actions---delete:before {
+  content: "\e90c";
+}
+.da-if-actions---search:before {
+  content: "\e90d";
+}
+.da-if-actions---zoom-out:before {
+  content: "\e90e";
+}
+.da-if-actions---zoom-in:before {
+  content: "\e90f";
+}
+.da-if-actions---profile:before {
+  content: "\e910";
+}
+.da-if-actions---group:before {
+  content: "\e911";
+}
+.da-if-actions---add-friend:before {
+  content: "\e912";
+}
+.da-if-actions---profile-login:before {
+  content: "\e913";
+}
+.da-if-actions---calendar:before {
+  content: "\e914";
+}
+.da-if-actions---search-page:before {
+  content: "\e915";
+}
+.da-if-actions---search-doc:before {
+  content: "\e916";
+}
+.da-if-actions---filter:before {
+  content: "\e917";
+}
+.da-if-actions---lock:before {
+  content: "\e918";
+}
+.da-if-actions---unlock:before {
+  content: "\e919";
+}
+.da-if-actions---plus:before {
+  content: "\e91a";
+}
+.da-if-actions---minus:before {
+  content: "\e91b";
+}
+.da-if-actions---plus-filled:before {
+  content: "\e91c";
+}
+.da-if-actions---minus-filled:before {
+  content: "\e91d";
+}
+.da-if-actions---plus-outline:before {
+  content: "\e91e";
+}
+.da-if-actions---minus-outline:before {
+  content: "\e91f";
+}
+.da-if-actions---plus-box:before {
+  content: "\e920";
+}
+.da-if-actions---minus-box:before {
+  content: "\e921";
+}
+.da-if-actions---plus-box-outline:before {
+  content: "\e922";
+}
+.da-if-actions---minus-box-outline:before {
+  content: "\e923";
+}
+.da-if-audio---play:before {
+  content: "\e924";
+}
+.da-if-audio---pause:before {
+  content: "\e925";
+}
+.da-if-audio---stop:before {
+  content: "\e926";
+}
+.da-if-audio---previous:before {
+  content: "\e927";
+}
+.da-if-audio---next:before {
+  content: "\e928";
+}
+.da-if-audio---rewind:before {
+  content: "\e929";
+}
+.da-if-audio---forward:before {
+  content: "\e92a";
+}
+.da-if-audio---volume-mute:before {
+  content: "\e92b";
+}
+.da-if-audio---volume-down:before {
+  content: "\e92c";
+}
+.da-if-audio---volume-up:before {
+  content: "\e92d";
+}
+.da-if-audio---volume-off:before {
+  content: "\e92e";
+}
+.da-if-audio---mic:before {
+  content: "\e92f";
+}
+.da-if-audio---mic_off:before {
+  content: "\e930";
+}
+.da-if-communication---call:before {
+  content: "\e931";
+}
+.da-if-communication---chat:before {
+  content: "\e932";
+}
+.da-if-devices---monitor-desktop:before {
+  content: "\e933";
+}
+.da-if-devices---iphone:before {
+  content: "\e934";
+}
+.da-if-devices---ipad-tablet:before {
+  content: "\e935";
+}
+.da-if-devices---imac:before {
+  content: "\e936";
+}
+.da-if-devices---apple-watch:before {
+  content: "\e937";
+}
+.da-if-devices---macbook-laptop:before {
+  content: "\e938";
+}
+.da-if-devices---ipod:before {
+  content: "\e939";
+}
+.da-if-devices---headphones:before {
+  content: "\e93a";
+}
+.da-if-devices---headset:before {
+  content: "\e93b";
+}
+.da-if-devices---joystick-games:before {
+  content: "\e93c";
+}
+.da-if-devices---photo-camera:before {
+  content: "\e93d";
+}
+.da-if-devices---server:before {
+  content: "\e93e";
+}
+.da-if-devices---mouse:before {
+  content: "\e93f";
+}
+.da-if-devices---floppy-save:before {
+  content: "\e940";
+}
+.da-if-editor---redo:before {
+  content: "\e941";
+}
+.da-if-editor---undo:before {
+  content: "\e942";
+}
+.da-if-editor---attach-hyperlink:before {
+  content: "\e943";
+}
+.da-if-editor---image:before {
+  content: "\e944";
+}
+.da-if-editor---file:before {
+  content: "\e945";
+}
+.da-if-editor---eraser:before {
+  content: "\e946";
+}
+.da-if-editor---eraser-filled:before {
+  content: "\e947";
+}
+.da-if-file---folder:before {
+  content: "\e948";
+}
+.da-if-file---folder-border:before {
+  content: "\e949";
+}
+.da-if-file---folders:before {
+  content: "\e94a";
+}
+.da-if-file---add-folder:before {
+  content: "\e94b";
+}
+.da-if-file---delete-folder:before {
+  content: "\e94c";
+}
+.da-if-file---shared-folder:before {
+  content: "\e94d";
+}
+.da-if-file---move-folder:before {
+  content: "\e94e";
+}
+.da-if-file---upload-folder:before {
+  content: "\e94f";
+}
+.da-if-file---download-folder:before {
+  content: "\e950";
+}
+.da-if-file---image-folder:before {
+  content: "\e951";
+}
+.da-if-file---file-document:before {
+  content: "\e952";
+}
+.da-if-file---list-poll:before {
+  content: "\e953";
+}
+.da-if-file---word-file:before {
+  content: "\e954";
+}
+.da-if-file---excel-file:before {
+  content: "\e955";
+}
+.da-if-file---powerpoint-file:before {
+  content: "\e956";
+}
+.da-if-file---database:before {
+  content: "\e957";
+}
+.da-if-file---multiple-files-sheets:before {
+  content: "\e958";
+}
+.da-if-file---document-file-sheet:before {
+  content: "\e959";
+}
+.da-if-file---attachment:before {
+  content: "\e95a";
+}
+.da-if-file---upload:before {
+  content: "\e95b";
+}
+.da-if-file---download:before {
+  content: "\e95c";
+}
+.da-if-file---cloud:before {
+  content: "\e95d";
+}
+.da-if-file---cloud-border:before {
+  content: "\e95e";
+}
+.da-if-file---cloud-upload:before {
+  content: "\e95f";
+}
+.da-if-file---cloud-download:before {
+  content: "\e960";
+}
+.da-if-file---cloud-check:before {
+  content: "\e961";
+}
+.da-if-editor---image-multiple:before {
+  content: "\e962";
+}
+.da-if-editor---rotate-left:before {
+  content: "\e963";
+}
+.da-if-editor---rotate-right:before {
+  content: "\e964";
+}
+.da-if-editor---edit:before {
+  content: "\e965";
+}
+.da-if-logo---facebook:before {
+  content: "\e966";
+}
+.da-if-logo---twitter:before {
+  content: "\e967";
+}
+.da-if-logo---vkontakte:before {
+  content: "\e968";
+}
+.da-if-logo---youtube:before {
+  content: "\e969";
+}
+.da-if-navigation---menu-apps:before {
+  content: "\e96a";
+}
+.da-if-navigation---menu-hamburger:before {
+  content: "\e96b";
+}
+.da-if-navigation---arrow-left:before {
+  content: "\e96c";
+}
+.da-if-navigation---arrow-down:before {
+  content: "\e96d";
+}
+.da-if-navigation---arrow-right:before {
+  content: "\e96e";
+}
+.da-if-navigation---arrow-up:before {
+  content: "\e96f";
+}
+.da-if-navigation---check:before {
+  content: "\e970";
+}
+.da-if-navigation---chevron-left:before {
+  content: "\e971";
+}
+.da-if-navigation---chevron-right:before {
+  content: "\e972";
+}
+.da-if-navigation---chevron-up:before {
+  content: "\e973";
+}
+.da-if-navigation---chevron-down:before {
+  content: "\e974";
+}
+.da-if-navigation---close:before {
+  content: "\e975";
+}
+.da-if-navigation---all-back:before {
+  content: "\e976";
+}
+.da-if-navigation---fullscreen:before {
+  content: "\e977";
+}
+.da-if-navigation---exit-fullscreen:before {
+  content: "\e978";
+}
+.da-if-navigation---all-forward:before {
+  content: "\e979";
+}
+.da-if-navigation---refresh:before {
+  content: "\e97a";
+}
+.da-if-navigation---arrow-level-down-right:before {
+  content: "\e97b";
+}
+.da-if-navigation---arrow-level-down-left:before {
+  content: "\e97c";
+}
+.da-if-navigation---chevrons-unfold-less:before {
+  content: "\e97d";
+}
+.da-if-navigation---chevrons-unfold-more:before {
+  content: "\e97e";
+}
+.da-if-navigation---more-horizontal:before {
+  content: "\e97f";
+}
+.da-if-navigation---more-vertical:before {
+  content: "\e980";
+}
+.da-if-navigation---dropdown-triangle-down:before {
+  content: "\e981";
+}
+.da-if-navigation---dropdown-triangle-up:before {
+  content: "\e982";
+}
+.da-if-navigation---triangle-left:before {
+  content: "\e983";
+}
+.da-if-navigation---triangle-right:before {
+  content: "\e984";
+}
+.da-if-navigation---triangle-filled-down:before {
+  content: "\e985";
+}
+.da-if-navigation---triangle-filled-up:before {
+  content: "\e986";
+}
+.da-if-navigation---triangle-filled-right:before {
+  content: "\e987";
+}
+.da-if-navigation---triangle-filled-left:before {
+  content: "\e988";
+}
+.da-if-navigation---filled-close:before {
+  content: "\e989";
+}
+.da-if-toggle---checkbox-checked:before {
+  content: "\e98a";
+}
+.da-if-toggle---checkbox-unchecked:before {
+  content: "\e98b";
+}
+.da-if-toggle---check-box-indeterminate:before {
+  content: "\e98c";
+}
+.da-if-toggle---radiobutton-on:before {
+  content: "\e98d";
+}
+.da-if-toggle---radiobutton-off:before {
+  content: "\e98e";
+}
+.da-if-toggle---star:before {
+  content: "\e98f";
+}
+.da-if-toggle---star-border:before {
+  content: "\e990";
+}
+.da-if-toggle---star-half:before {
+  content: "\e991";
+}
+.da-if-misc---cart:before {
+  content: "\e992";
+}
+.da-if-misc---cart-border:before {
+  content: "\e993";
+}
+.da-if-misc---bell-notification:before {
+  content: "\e994";
+}
+.da-if-misc---pin:before {
+  content: "\e995";
+}
+.da-if-gambling---suit-spades:before {
+  content: "\e996";
+}
+.da-if-gambling---crown:before {
+  content: "\e997";
+}
+.da-if-gambling---suit-hearts:before {
+  content: "\e998";
+}
+.da-if-gambling---suit-diamonds:before {
+  content: "\e999";
+}
+.da-if-gambling---suit-clubs:before {
+  content: "\e99a";
+}
+.da-if-gambling---suit-dice:before {
+  content: "\e99b";
+}
+.da-if-finance---bank:before {
+  content: "\e99c";
+}
+.da-if-finance---curency-sign:before {
+  content: "\e99d";
+}
+.da-if-finance---curency-usd:before {
+  content: "\e99e";
+}
+.da-if-finance---curency-usd-no:before {
+  content: "\e99f";
+}
+.da-if-finance---curency-euro:before {
+  content: "\e9a0";
+}
+.da-if-finance---curency-gbr:before {
+  content: "\e9a1";
+}
+.da-if-finance---curency-jpy:before {
+  content: "\e9a2";
+}
+.da-if-finance---curency-rub:before {
+  content: "\e9a3";
+}
+.da-if-finance---curency-ind:before {
+  content: "\e9a4";
+}
+.da-if-finance---curency-krw:before {
+  content: "\e9a5";
+}
+.da-if-finance---curency-thb:before {
+  content: "\e9a6";
+}
+.da-if-finance---curency-btc:before {
+  content: "\e9a7";
+}
+.da-if-finance---curency-eth:before {
+  content: "\e9a8";
+}
+.da-if-finance---curency-eth2:before {
+  content: "\e9a9";
+}
+.da-if-finance---curency-xrp:before {
+  content: "\e9aa";
+}
+.da-if-finance---curency-eos:before {
+  content: "\e9ab";
+}
+.da-if-finance---curency-btc-round-filled:before {
+  content: "\e9ac";
+}
+.da-if-finance---curency-eth-round-filled:before {
+  content: "\e9ad";
+}
+.da-if-finance---curency-eth-logo-round-filled:before {
+  content: "\e9ae";
+}
+.da-if-finance---curency-xrp-round-filled:before {
+  content: "\e9af";
+}
+.da-if-finance---curency-eos-round-filled:before {
+  content: "\e9b0";
+}
+.da-if-finance---chart-areaspline:before {
+  content: "\e9b1";
+}
+.da-if-finance---chart-arc:before {
+  content: "\e9b2";
+}
+.da-if-finance---chart-bar:before {
+  content: "\e9b3";
+}
+.da-if-finance---chartbar-stacked:before {
+  content: "\e9b4";
+}
+.da-if-finance---chart-pie:before {
+  content: "\e9b5";
+}
+.da-if-finance---credit-card:before {
+  content: "\e9b6";
+}
+.da-if-finance---credit-card-no:before {
+  content: "\e9b7";
+}
+.da-if-finance---credit-card-plus:before {
+  content: "\e9b8";
+}
+.da-if-finance---credit-card-check:before {
+  content: "\e9b9";
+}
+.da-if-finance---credit-card-cancel:before {
+  content: "\e9ba";
+}
+.da-if-finance---credit-card-multiple:before {
+  content: "\e9bb";
+}
+.da-if-finance---credit-card-scan:before {
+  content: "\e9bc";
+}
+.da-if-finance---credit-card-settings:before {
+  content: "\e9bd";
+}
+.da-if-health-care---heartbeat:before {
+  content: "\e9be";
+}
+.da-if-health-care---heartbeat-border:before {
+  content: "\e9bf";
+}
+.da-if-health-care---pill:before {
+  content: "\e9c0";
+}
+.da-if-health-care---laboratory:before {
+  content: "\e9c1";
+}
+.da-if-sport---sport-climbing:before {
+  content: "\e9c2";
+}
+.da-if-sport---sport-cricket:before {
+  content: "\e9c3";
+}
+.da-if-sport---sport-cycling:before {
+  content: "\e9c4";
+}
+.da-if-sport---sport-jogging:before {
+  content: "\e9c5";
+}
+.da-if-sport---sport-running:before {
+  content: "\e9c6";
+}
+.da-if-sport---sport-football:before {
+  content: "\e9c7";
+}
+.da-if-sport---sport-hiking:before {
+  content: "\e9c8";
+}
+.da-if-sport---sport-yoga:before {
+  content: "\e9c9";
+}
+.da-if-sport---sport-volleyball:before {
+  content: "\e9ca";
+}
+.da-if-sport---sport-karting:before {
+  content: "\e9cb";
+}
+.da-if-sport---sport-chess:before {
+  content: "\e9cc";
+}
+.da-if-sport---sport-table-games:before {
+  content: "\e9cd";
+}
+.da-if-sport---sport-bowling:before {
+  content: "\e9ce";
+}
+.da-if-sport---sport-ping-pong:before {
+  content: "\e9cf";
+}
+.da-if-sport---sport-aerobics:before {
+  content: "\e9d0";
+}
+.da-if-sport---sport-badminton:before {
+  content: "\e9d1";
+}
+.da-if-sport---sport-baseball:before {
+  content: "\e9d2";
+}
+.da-if-sport---sport-basketball:before {
+  content: "\e9d3";
+}
+.da-if-sport---sport-boxing:before {
+  content: "\e9d4";
+}
+.da-if-sport---sport-canicross:before {
+  content: "\e9d5";
+}
+.da-if-transport---car-side:before {
+  content: "\e9d6";
+}
+.da-if-transport---truck-side:before {
+  content: "\e9d7";
+}
+.da-if-transport---parking-sign:before {
+  content: "\e9d8";
+}
+.da-if-transport---parking-sign-stroke:before {
+  content: "\e9d9";
+}
+.da-if-transport---parking-payment:before {
+  content: "\e9da";
+}
+.da-if-transport---plane-up:before {
+  content: "\e9db";
+}
+.da-if-transport---plane-down:before {
+  content: "\e9dc";
+}
+.da-if-transport---plane-straight:before {
+  content: "\e9dd";
+}
+.da-if-transport---plane-face:before {
+  content: "\e9de";
+}
+.da-if-transport---plane:before {
+  content: "\e9df";
+}
+.da-if-transport---car-face:before {
+  content: "\e9e0";
+}
