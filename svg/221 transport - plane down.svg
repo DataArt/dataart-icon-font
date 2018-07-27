@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>221 transport - plane down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-312.000000, -840.000000)">
+            <g id="icons/transport/plane_down" transform="translate(312.000000, 840.000000)">
+                <polygon id="Shape-Copy-24" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M13.4818901,11.1812026 L19.1938969,12.7117302 C20.1712107,12.9736006 20.9764981,13.6655262 21.3825347,14.5922691 L21.663205,15.2328744 C21.8786348,15.7245741 21.7510938,16.2991565 21.3478596,16.6535303 C20.9248592,17.0252752 20.3440574,17.1610195 19.8001086,17.0152688 L9.8125399,14.3391079 C8.04760446,13.8661948 6.3704524,13.1118379 4.84563585,12.1050716 L1.86990392,10.1403326 L3.35346784,8.46730001 L4.12992497,5.56952253 L5.36557668,5.9006144 C5.78134053,6.01201799 6.07917175,6.37696784 6.1049611,6.80662497 L6.25124532,9.24375714 L9.01103339,9.98324013 L9.73601124,3.96584027 L10.8753987,4.27113823 C11.5992287,4.46508789 12.1539084,5.04739496 12.3124735,5.77979061 L13.4818901,11.1812026 Z M2,20 L22,20 L22,22 L2,22 L2,20 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

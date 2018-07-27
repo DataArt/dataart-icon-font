@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>147 misc - cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-24.000000, -456.000000)">
+            <g id="icons/shopping/shopping_cart" transform="translate(24.000000, 456.000000)">
+                <rect id="bounding-box" fill="#DBDBDB" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M18,22 C16.8954305,22 16,21.1045695 16,20 C16,18.8954305 16.8954305,18 18,18 C19.1045695,18 20,18.8954305 20,20 C20,21.1045695 19.1045695,22 18,22 Z M7,22 C5.8954305,22 5,21.1045695 5,20 C5,18.8954305 5.8954305,18 7,18 C8.1045695,18 9,18.8954305 9,20 C9,21.1045695 8.1045695,22 7,22 Z M7,5 L22,5 L17.3811978,13 L9.61880215,13 L8.46410162,15 L21,15 L21,17 L5,17 L8.30940108,11.2679492 L4.11324865,4 L2,4 L2,2 L5.26794919,2 L7,5 Z" id="Combined-Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

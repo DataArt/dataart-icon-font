@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>193 health care - pill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-120.000000, -744.000000)">
+            <g id="icons/healthcare/pill" transform="translate(120.000000, 744.000000)">
+                <polygon id="Rectangle" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M9.87867966,9.87867966 L14.1177848,14.1177848 L16.9497475,11.2928932 C18.5148105,9.72783021 19.0710678,7.75735931 17.6568542,6.34314575 C16.2426407,4.92893219 14.2721698,5.48518952 12.7071068,7.05025253 L9.87867966,9.87867966 Z M4.92893219,19.0710678 C2.97260343,17.1147391 2.97260343,13.9563288 4.92893219,12 L12,4.92893219 C13.9563288,2.97260343 17.1147391,2.97260343 19.0710678,4.92893219 C21.0273966,6.88526095 21.0273966,10.0436712 19.0710678,12 L11.9882149,19.0592827 C10.0318861,21.0156115 6.88526095,21.0273966 4.92893219,19.0710678 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>109 navigation - arrow left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-120.000000, -360.000000)">
+            <g id="icons/navigation/arrow_backward" transform="translate(120.000000, 360.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <polygon id="Combined-Shape" fill="#000000" fill-rule="nonzero" points="7.83421364 11 20 11 20 13 7.8342139 13 12.427107 17.5928924 11.0128935 19.0071061 4.00578646 12.0000001 11.0128935 4.99289303 12.427107 6.40710659"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

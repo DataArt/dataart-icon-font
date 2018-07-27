@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>131 navigation - dropdown triangle up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-1176.000000, -360.000000)">
+            <g id="icons/navigation/arrow_drop_up" transform="translate(1176.000000, 360.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="7 14 12 9 17 14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

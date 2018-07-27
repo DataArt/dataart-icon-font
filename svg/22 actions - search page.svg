@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>22 actions - search page</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-1032.000000, -24.000000)">
+            <g id="icons/action/search_page" transform="translate(1032.000000, 24.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M4,4 C4,2.8954305 4.8954305,2 6,2 L13.5857864,2 C13.8510029,2 14.1053568,2.10535684 14.2928932,2.29289322 L19.7071068,7.70710678 C19.8946432,7.89464316 20,8.14899707 20,8.41421356 L20,20 C20,21.1045695 19.1045695,22 18,22 L6,22 C4.8954305,22 4,21.1045695 4,20 L4,4 Z M14.3099521,13.8957385 C14.7470915,13.202014 15,12.380542 15,11.5 C15,9.01471863 12.9852814,7 10.5,7 C8.01471863,7 6,9.01471863 6,11.5 C6,13.9852814 8.01471863,16 10.5,16 C11.380542,16 12.202014,15.7470915 12.8957385,15.3099521 L16.5,18.9142136 L17.9142136,17.5 L14.3099521,13.8957385 Z M10.5,14 C9.11928813,14 8,12.8807119 8,11.5 C8,10.1192881 9.11928813,9 10.5,9 C11.8807119,9 13,10.1192881 13,11.5 C13,12.8807119 11.8807119,14 10.5,14 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

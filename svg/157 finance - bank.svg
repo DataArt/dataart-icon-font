@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>157 finance - bank</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-24.000000, -552.000000)">
+            <g id="icons/finance/banking/bank" transform="translate(24.000000, 552.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M2,22 L2,19 L22,19 L22,22 L2,22 Z M17,11 L19,11 L19,17 L17,17 L17,11 Z M9,11 L11,11 L11,17 L9,17 L9,11 Z M13,11 L15,11 L15,17 L13,17 L13,11 Z M5,11 L7,11 L7,17 L5,17 L5,11 Z M12,2 L22,7 L22,9 L2,9 L2,7 L12,2 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

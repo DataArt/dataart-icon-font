@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>83 file - file document</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-504.000000, -264.000000)">
+            <g id="icons/file/document" transform="translate(504.000000, 264.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M14,17 L7,17 L7,15 L14,15 L14,17 Z M17,13 L7,13 L7,11 L17,11 L17,13 Z M17,9 L7,9 L7,7 L17,7 L17,9 Z M19,3 L5,3 C3.89,3 3,3.89 3,5 L3,19 C3,20.1045695 3.8954305,21 5,21 L19,21 C20.1045695,21 21,20.1045695 21,19 L21,5 C21,3.89 20.1,3 19,3 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

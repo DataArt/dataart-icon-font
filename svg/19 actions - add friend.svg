@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>19 actions - add friend</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-888.000000, -24.000000)">
+            <g id="icons/action/add_person" transform="translate(888.000000, 24.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M15.0066778,12 C12.7896494,12 11,10.2133333 11,8 C11,5.78666667 12.7896494,4 15.0066778,4 C17.2237062,4 19,5.78666667 19,8 C19,10.2133333 17.2237062,12 15.0066778,12 Z M14.9832829,14 C19.7541819,14 22.2154065,17 22.8181828,18.5 C22.9679661,18.8727333 23.0258464,19.3727333 22.9894395,20 L7.00544349,20 C6.9829438,19.2911476 7.03019291,18.7911476 7.14719083,18.5 C7.74996715,17 10.2086635,14 14.9832829,14 Z M5.99999952,10.9999995 L9,10.9999995 L9,12.9999995 L5.99999952,12.9999995 L5.99999952,16 L3.99999952,16 L3.99999952,12.9999995 L1,12.9999995 L1,10.9999995 L3.99999952,10.9999995 L3.99999952,8 L5.99999952,8 L5.99999952,10.9999995 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

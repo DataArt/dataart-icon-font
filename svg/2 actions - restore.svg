@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>2 actions - restore</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-72.000000, -24.000000)">
+            <g id="icons/action/restore" transform="translate(72.000000, 24.000000)">
+                <polygon id="baseline" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M12.5,11.5 L17,11.5 L17,13 L11,13 L11,7 L12.5,7 L12.5,11.5 Z M6.7201548,6.7201548 L9,9 L3,9 L3,3 L5.30101133,5.30101133 C5.45485557,5.12250113 5.61544693,4.94952423 5.78248558,4.78248558 C7.55193436,3.0130368 9.94702236,2 12.5,2 C17.7467051,2 22,6.25329488 22,11.5 C22,16.7467051 17.7467051,21 12.5,21 C9.94702236,21 7.55193436,19.9869632 5.78248558,18.2175144 C4.90110748,17.3361363 4.19923073,16.2894291 3.72119286,15.1365923 L5.56865875,14.370518 C5.9458126,15.2800628 6.50016388,16.1067656 7.19669914,16.8033009 C8.59479336,18.2013951 10.4829075,19 12.5,19 C16.6421356,19 20,15.6421356 20,11.5 C20,7.35786438 16.6421356,4 12.5,4 C10.4829075,4 8.59479336,4.79860493 7.19669914,6.19669914 C7.02949643,6.36390185 6.87048688,6.53860528 6.7201548,6.7201548 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

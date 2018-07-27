@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>26 actions - unlock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-1224.000000, -24.000000)">
+            <g id="icons/action/unlock2" transform="translate(1224.000000, 24.000000)">
+                <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M6,8 L15,8 L15,6 C15,4.34314575 13.6568542,3 12,3 C10.3431458,3 9,4.34314575 9,6 L7,6 C7,5.37275542 7.11569209,4.77236794 7.32688742,4.21902642 C8.04499322,2.33755597 9.86724458,1 12,1 C14.76,1 17,3.24 17,6 L17,8 L18,8 C19.1,8 20,8.9 20,10 L20,20 C20,21.1 19.1,22 18,22 L6,22 C4.9,22 4,21.1 4,20 L4,10 C4,8.9 4.9,8 6,8 Z M11,19 L13,19 L13,15.7302565 C13.5966642,15.3831394 14,14.7363848 14,14 C14,12.9 13.1,12 12,12 C10.9,12 10,12.9 10,14 C10,14.7363848 10.4033358,15.3831394 11,15.7302565 L11,19 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

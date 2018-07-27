@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>17 actions - profile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-792.000000, -24.000000)">
+            <g id="icons/action/person" transform="translate(792.000000, 24.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M12.0066778,12 C9.78964942,12 8,10.2133333 8,8 C8,5.78666667 9.78964942,4 12.0066778,4 C14.2237062,4 16,5.78666667 16,8 C16,10.2133333 14.2237062,12 12.0066778,12 Z M11.9832829,14 C16.7541819,14 19.2154065,17 19.8181828,18.5 C19.9679661,18.8727333 20.0258464,19.3727333 19.9894395,20 L4.00544349,20 C3.9829438,19.2911476 4.03019291,18.7911476 4.14719083,18.5 C4.74996715,17 7.20866349,14 11.9832829,14 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

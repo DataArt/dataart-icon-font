@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>199 sport - sport running</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-504.000000, -792.000000)" fill="#000000">
+            <g id="icons/sport/type/running" transform="translate(504.000000, 792.000000)">
+                <g id="sport/type/running">
+                    <rect id="ic-background" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M18,7 C16.8954305,7 16,6.1045695 16,5 C16,3.8954305 16.8954305,3 18,3 C19.1045695,3 20,3.8954305 20,5 C20,6.1045695 19.1045695,7 18,7 Z M7.24219493,15.4989937 L12.6909673,9.00539967 L11.1257588,9.00539967 L8.22019585,12.4681148 L6.68810697,11.1825396 L10.1931435,7.00539967 L14.3691666,7.00539967 L15.3063127,7 C16.4108822,7 17.3063127,7.8954305 17.3063127,9 C17.3063127,9.47020528 17.1406437,9.92537708 16.8384016,10.2855752 L16.2389281,11 L20,11 L20,13 L14.5607288,13 L12.9791975,14.8847956 L15.5,17 L11.7192249,21.5057523 L10.187136,20.2201771 L12.6823359,17.2465137 L10.1615334,15.1313092 L7.87411436,17.8573491 L3.17565125,16.1472484 L3.85969154,14.2678632 L7.24219493,15.4989937 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>161 finance - curency euro</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-168.000000, -600.000000)">
+            <g id="icons/finance/currency/eur" transform="translate(168.000000, 600.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M7.07,11 L7,12 L7.07,13 L17.35,13 L16.5,15 L7.67,15 C8.8,17.36 11.21,19 14,19 C16.23,19 18.22,17.96 19.5,16.33 L19.5,19.12 C18,20.3 16.07,21 14,21 C10.08,21 6.75,18.5 5.5,15 L2,15 L3,13 L5.05,13 L5,12 L5.05,11 L2,11 L3,9 L5.5,9 C6.75,5.5 10.08,3 14,3 C16.5,3 18.8,4.04 20.43,5.71 L19.57,7.75 C18.29,6.08 16.27,5 14,5 C11.21,5 8.8,6.64 7.67,9 L19.04,9 L18.19,11 L7.07,11 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

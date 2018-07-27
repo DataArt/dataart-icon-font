@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>224 transport - plane</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-408.000000, -840.000000)">
+            <g id="icons/transport/plane" transform="translate(408.000000, 840.000000)">
+                <polygon id="Shape-Copy-22" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M20.4914603,3.50854384 C19.8034878,2.82060668 18.6846053,2.83210277 18.0109414,3.53406727 L14.3235439,7.37653802 L5.32491736,4.39855903 L3.43593739,6.28757371 L10.9365917,10.9058722 L7.14126454,14.8607374 L4.70736283,14.4611517 L3,16.1685141 L6.57820219,17.4217987 L7.83148701,21 L9.53884985,19.2926376 L9.13926402,16.8587364 L13.0941302,13.0634453 L17.7124297,20.5640627 L19.6014449,18.675048 L16.6235003,9.67642359 L20.4659017,5.98906214 C21.1679015,5.31539841 21.1793976,4.19651616 20.4914603,3.50854384 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>149 misc - bell notification</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-120.000000, -456.000000)">
+            <g id="icons/notification2" transform="translate(120.000000, 456.000000)">
+                <rect id="bounding-box" fill="#DBDBDB" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M10.0397782,4.39886992 C10.0136919,4.26997631 10,4.13658712 10,4 C10,2.8954305 10.8954305,2 12,2 C13.1045695,2 14,2.8954305 14,4 C14,4.13658712 13.9863081,4.26997631 13.9602218,4.39886992 C15.7473445,5.16121449 17,6.93432057 17,9 L17,14 C17,15.1045695 17.8954305,16 19,16 C19.5522847,16 20,16.4477153 20,17 C20,17.5522847 19.5522847,18 19,18 L5,18 C4.44771525,18 4,17.5522847 4,17 C4,16.4477153 4.44771525,16 5,16 C6.1045695,16 7,15.1045695 7,14 L7,9 C7,6.93432057 8.25265545,5.16121449 10.0397782,4.39886992 Z M10,19 L14,19 C14,20.1045695 13.1045695,21 12,21 C10.8954305,21 10,20.1045695 10,19 Z" id="Combined-Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

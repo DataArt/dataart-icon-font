@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>123 navigation - refresh</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-792.000000, -360.000000)">
+            <g id="icons/navigation/refresh" transform="translate(792.000000, 360.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M17.4245823,7.57541768 C16.1409482,6.00355604 14.1876707,5 12,5 C8.13400675,5 5,8.13400675 5,12 C5,15.8659932 8.13400675,19 12,19 C14.0555008,19 15.904075,18.1140422 17.1846902,16.7031592 L18.5348732,18.1883605 C16.8945689,19.9199259 14.5734169,21 12,21 C7.02943725,21 3,16.9705627 3,12 C3,7.02943725 7.02943725,3 12,3 C14.7398171,3 17.1936911,4.22426776 18.8444094,6.15559061 L22,3 L22,11 L14,11 L17.4245823,7.57541768 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

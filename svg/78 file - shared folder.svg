@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>78 file - shared folder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-264.000000, -264.000000)">
+            <g id="icons/file/folder_shared" transform="translate(264.000000, 264.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M10,4 L12,6 L20,6 C21.1045695,6 22,6.8954305 22,8 L22,18 C22,19.1045695 21.1045695,20 20,20 L4,20 C2.8954305,20 2,19.1045695 2,18 L2,6 C2,4.8954305 2.8954305,4 4,4 L10,4 Z M15.0033389,13 C16.1118531,13 17,12.1066667 17,11 C17,9.89333333 16.1118531,9 15.0033389,9 C13.8948247,9 13,9.89333333 13,11 C13,12.1066667 13.8948247,13 15.0033389,13 Z M14.9916415,14 C12.6043317,14 11.3749836,15.5 11.0735954,16.25 C11.0150965,16.3955738 10.9914719,16.6455738 11.0027217,17 L18.9947198,17 C19.0129232,16.6863667 18.983983,16.4363667 18.9090914,16.25 C18.6077033,15.5 17.3770909,14 14.9916415,14 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

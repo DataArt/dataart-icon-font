@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>220 transport - plane up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-264.000000, -840.000000)">
+            <g id="icons/transport/plane_up" transform="translate(264.000000, 840.000000)">
+                <polygon id="Shape-Copy-23" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M12.9469204,9.52509205 L18.0681656,6.56833972 C18.9444011,6.06244492 20.0030906,5.98228595 20.9455081,6.35048095 L21.5969482,6.60499344 C22.0969644,6.80034575 22.4130703,7.29682198 22.3785208,7.83253175 C22.3422777,8.39450147 22.0275745,8.90117611 21.5398833,9.18274472 L12.5852742,14.3526907 C11.0028764,15.2662885 9.2835399,15.9188032 7.49344051,16.2851201 L4,17 L3.8660254,14.7679492 L2.3660254,12.169873 L3.47388042,11.5302526 C3.84664408,11.3150374 4.31530108,11.3624974 4.63735037,11.6480751 L6.46410162,13.2679492 L8.93845991,11.8393778 L5.19615242,7.07179677 L6.2176993,6.48200641 C6.86666749,6.10732445 7.67063853,6.12685997 8.30064294,6.53261942 L12.9469204,9.52509205 Z M2,20 L22,20 L22,22 L2,22 L2,20 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

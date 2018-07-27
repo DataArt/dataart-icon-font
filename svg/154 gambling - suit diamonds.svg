@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>154 gambling - suit diamonds</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-168.000000, -504.000000)">
+            <g id="icons/gambling/diamonds_poker" transform="translate(168.000000, 504.000000)">
+                <rect id="bounding-box" fill="#DBDBDB" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,3 C12.9481417,5.01692387 14.1148084,6.81692387 15.5,8.4 C16.8851916,9.98307613 18.0518583,11.1830761 19,12 C17.906475,12.9830761 16.7398084,14.1830761 15.5,15.6 C14.2601916,17.0169239 13.093525,18.8169239 12,21 C11.0518583,18.9830761 9.88519162,17.1830761 8.5,15.6 C7.11480838,14.0169239 5.94814172,12.8169239 5,12 C6.09352495,11.0169239 7.26019162,9.81692387 8.5,8.4 C9.73980838,6.98307613 10.906475,5.18307613 12,3 Z" id="Rectangle" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

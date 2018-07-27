@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>57 devices - macbook laptop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-264.000000, -168.000000)" fill="#000000">
+            <g id="icons/hardware/laptop_apple" transform="translate(264.000000, 168.000000)">
+                <rect id="bg-icon" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M21.7324356,17 L24,17 L24,18 C24,19.1045695 23.1045695,20 22,20 L2,20 C0.8954305,20 1.3527075e-16,19.1045695 0,18 L0,17 L2.26756439,17 C2.09739429,16.7058266 2,16.3642871 2,16 L2,5 C2,3.8954305 2.8954305,3 4,3 L20,3 C21.1045695,3 22,3.8954305 22,5 L22,16 C22,16.3642871 21.9026057,16.7058266 21.7324356,17 Z M12,19 C12.5522847,19 13,18.5522847 13,18 C13,17.4477153 12.5522847,17 12,17 C11.4477153,17 11,17.4477153 11,18 C11,18.5522847 11.4477153,19 12,19 Z M4,5 L4,16 L20,16 L20,5 L4,5 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

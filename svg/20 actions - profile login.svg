@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>20 actions - profile login</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-936.000000, -24.000000)">
+            <g id="icons/action/profile" transform="translate(936.000000, 24.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 Z M12.0050083,12 C13.6677796,12 15,10.66 15,9 C15,7.34 13.6677796,6 12.0050083,6 C10.3422371,6 9,7.34 9,9 C9,10.66 10.3422371,12 12.0050083,12 Z M11.9874622,13.5 C9.27788453,13.5 7.28342468,14.7666664 6.00408262,17.2999992 C7.58392109,19.0999997 9.58256022,20 12,20 C14.4174398,20 16.4174398,19.0999997 18,17.2999992 C16.7012191,14.7666664 14.6970398,13.5 11.9874622,13.5 Z" id="Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>126 navigation - chevrons unfold less</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-936.000000, -360.000000)">
+            <g id="icons/navigation/unfold_less" transform="translate(936.000000, 360.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <polygon id="Combined-Shape" fill="#000000" fill-rule="nonzero" points="12 7.58578644 15.5857864 4 17 5.41421356 12 10.4142136 7 5.41421356 8.41421356 4 12 7.58578644"></polygon>
+                <polygon id="Combined-Shape" fill="#000000" fill-rule="nonzero" transform="translate(12.000000, 17.207107) scale(1, -1) translate(-12.000000, -17.207107) " points="12 17.5857864 15.5857864 14 17 15.4142136 12 20.4142136 7 15.4142136 8.41421356 14 12 17.5857864"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

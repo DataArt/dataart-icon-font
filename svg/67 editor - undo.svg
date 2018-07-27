@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>67 editor - undo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-168.000000, -216.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="icons/action/undo" transform="translate(168.000000, 216.000000)">
+                <path d="M19.0710678,9.92893219 C20.9713405,11.8292049 22,14.3658691 22,17 L20,17 C20,14.8910438 19.178199,12.8644905 17.6568542,11.3431458 C14.5326599,8.21895142 9.46734008,8.21895142 6.34314575,11.3431458 L9,14 L2,14 L2,7 L4.92893219,9.92893219 C8.83417511,6.02368927 15.1658249,6.02368927 19.0710678,9.92893219 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

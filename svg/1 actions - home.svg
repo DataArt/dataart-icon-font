@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>1 actions - home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-24.000000, -24.000000)">
+            <g id="icons/action/home" transform="translate(24.000000, 24.000000)">
+                <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                <polygon id="Combined-Shape" fill="#000000" fill-rule="nonzero" points="5 12.8284271 3.41421356 14.4142136 2 13 12 3 22 13 20.5857864 14.4142136 19 12.8284271 19 21 14 21 14 15 10 15 10 21 5 21"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

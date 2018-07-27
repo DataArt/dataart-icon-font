@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>49 audio - mic_off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-600.000000, -72.000000)">
+            <g id="icons/audio/mic_off" transform="translate(600.000000, 72.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M14.3918628,15.3918628 L15.8482429,16.8482429 C15.007795,17.40239 14.0408278,17.7802324 13,17.9291111 L13,21 L16,21 L16,22 L8,22 L8,21 L11,21 L11,17.9291111 C7.60770586,17.4438815 5,14.5264719 5,11 L7,11 C7,13.7614237 9.23857625,16 12,16 C12.8664249,16 13.6813778,15.7796223 14.3918628,15.3918628 Z M16.8554231,12.1985688 C16.9498924,11.8145796 17,11.4131414 17,11 L19,11 C19,11.9849503 18.796574,12.9223879 18.4294446,13.7725904 L16.8554231,12.1985688 Z M15,10.3431458 L9.05947925,4.402625 C9.33642622,3.03197318 10.547698,2 12,2 C13.6568542,2 15,3.34314575 15,5 L15,10.3431458 Z M9,10 L3.13823276,4.13823276 L4.55244632,2.7240192 L21.5230091,19.6945819 L20.1087955,21.1087955 L12.8714647,13.8714647 C12.5956751,13.9550544 12.3030864,14 12,14 C10.3431458,14 9,12.6568542 9,11 L9,10 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

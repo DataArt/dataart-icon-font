@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>222 transport - plane straight</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-360.000000, -840.000000)">
+            <g id="icons/transport/plane_straight" transform="translate(360.000000, 840.000000)">
+                <polygon id="Shape-Copy-25" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M13.2786031,11 L19.114669,11 C20.1264586,11 21.0833901,11.459925 21.71545,12.25 L22.1523575,12.7961344 C22.487708,13.2153225 22.5132257,13.8033365 22.21545,14.25 C21.9030777,14.7185585 21.3771994,15 20.8140622,15 L10.4741703,15 C8.64697465,15 6.83172822,14.7054261 5.09829825,14.1276161 L1.71545005,13 L2.5,11 L2.5,8 L3.77924078,8 C4.20967119,8 4.59181003,8.27543009 4.72792408,8.68377223 L5.5,11 L8.59410367,11 L7.71545005,4.84942464 L8.89503077,4.84942464 C9.64439469,4.84942464 10.3308863,5.26832842 10.6736064,5.93472862 L13.2786031,11 Z M2,20 L22,20 L22,22 L2,22 L2,20 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

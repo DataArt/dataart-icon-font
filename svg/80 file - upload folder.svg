@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>80 file - upload folder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-360.000000, -264.000000)">
+            <g id="icons/file/folder_upload" transform="translate(360.000000, 264.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M17,13.0000002 L19,13.0000002 L15,9 L11,13.0000002 L13,13.0000002 L13,16 L17,16 L17,13.0000002 Z M9.57957623,4 C9.84492539,4 10.0994065,4.10535684 10.2870367,4.29289322 L11.9949975,6 L19.9989995,6 C21.1041216,6 22,6.8954305 22,8 L22,18 C22,19.1045695 21.1041216,20 19.9989995,20 L4.0010005,20 C2.89587844,20 2,19.1045695 2,18 L2,6 C2,4.8954305 2.89587844,4 4.0010005,4 L9.57957623,4 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

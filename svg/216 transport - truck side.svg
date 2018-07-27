@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>216 transport - truck side</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-72.000000, -840.000000)">
+            <g id="icons/transport/truck_side" transform="translate(72.000000, 840.000000)">
+                <polygon id="Shape-Copy-6" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M15,16 L9,16 C9,14.3431458 7.65685425,13 6,13 C4.34314575,13 3,14.3431458 3,16 L2,15.4285714 L2,12.2605812 C2,11.8456416 2.25624875,11.47381 2.64400467,11.3260935 L5,10.4285714 L6.46852994,7.17682656 C6.79205754,6.46044401 7.50522149,6 8.29127114,6 L22,6 L22,14.8571429 L21,16 C21,14.3431458 19.6568542,13 18,13 C16.3431458,13 15,14.3431458 15,16 Z M6,14 C7.10457621,14 8,14.8954238 8,16 C7.99877471,17.1040435 7.10404347,17.9987747 6,18 C4.89542379,18 4,17.1045762 4,16 C4,14.8954238 4.89542379,14 6,14 Z M18,14 C19.1045762,14 20,14.8954238 20,16 C19.9987747,17.1040435 19.1040435,17.9987747 18,18 C16.8954238,18 16,17.1045762 16,16 C16,14.8954238 16.8954238,14 18,14 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

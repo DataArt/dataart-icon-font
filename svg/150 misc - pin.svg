@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>150 misc - pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-168.000000, -456.000000)">
+            <g id="icons/map/pin" transform="translate(168.000000, 456.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M6,9 C6,5.6862915 8.6862915,3 12,3 C15.3137085,3 18,5.6862915 18,9 C18,12.0340169 16.0003075,16.0340169 12.0009226,21 C8.00030753,15.9931641 6,11.9931641 6,9 Z M12,12 C13.6568542,12 15,10.6568542 15,9 C15,7.34314575 13.6568542,6 12,6 C10.3431458,6 9,7.34314575 9,9 C9,10.6568542 10.3431458,12 12,12 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

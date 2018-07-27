@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>169 finance - curency eth</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-552.000000, -600.000000)">
+            <g id="icons/finance/currency/eth" transform="translate(552.000000, 600.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M4,6 L4,4 L20,4 L20,6 L4,6 Z M7,13 L7,11 L17,11 L17,13 L7,13 Z M4,20 L4,18 L20,18 L20,20 L4,20 Z" id="Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

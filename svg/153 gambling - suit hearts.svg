@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>153 gambling - suit hearts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-72.000000, -504.000000)">
+            <g id="icons/gambling/hearts_poker" transform="translate(72.000000, 504.000000)">
+                <g>
+                    <rect id="bounding-box" fill="#DBDBDB" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M12,20 C6.5,16 3,13.5 3,8.97058824 C3,7 4.8,5 7.5,5 C10.2,5 12,7.64705882 12,8.52941176 C12,7.64705882 13.8,5 16.5,5 C19.2,5 21,7 21,8.97058824 C21,13.5 17.5,16 12,20 Z" id="Combined-Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

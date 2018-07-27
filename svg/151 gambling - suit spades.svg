@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>151 gambling - suit spades</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-24.000000, -504.000000)">
+            <g id="icons/gambling/spades_poker" transform="translate(24.000000, 504.000000)">
+                <rect id="bounding-box" fill="#DBDBDB" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,17 L15,21 L9,21 L12,17 Z M12,3 C17.5,7 21,9.5 21,14.0294118 C21,16 19.2,18 16.5,18 C13.8,18 12,15.3529412 12,14.4705882 C12,15.3529412 10.2,18 7.5,18 C4.8,18 3,16 3,14.0294118 C3,9.5 6.5,7 12,3 Z" id="Combined-Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

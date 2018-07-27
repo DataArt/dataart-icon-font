@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>120 navigation - fullscreen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-648.000000, -360.000000)">
+            <g id="icons/navigation/fullscreen" transform="translate(648.000000, 360.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M6,14 L4,14 L4,20 L10,20 L10,18 L6,18 L6,14 Z M4,10 L6,10 L6,6 L10,6 L10,4 L4,4 L4,10 Z M18,18 L14,18 L14,20 L20,20 L20,14 L18,14 L18,18 Z M14,4 L14,6 L18,6 L18,10 L20,10 L20,4 L14,4 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

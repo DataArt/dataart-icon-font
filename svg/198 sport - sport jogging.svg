@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>198 sport - sport jogging</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-456.000000, -792.000000)" fill="#000000">
+            <g id="icons/sport/type/jogging" transform="translate(456.000000, 792.000000)">
+                <g id="sport/type/jogging">
+                    <rect id="ic-background" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M15,6 C13.8954305,6 13,5.1045695 13,4 C13,2.8954305 13.8954305,2 15,2 C16.1045695,2 17,2.8954305 17,4 C17,5.1045695 16.1045695,6 15,6 Z M9,11.1547005 L9,13 L7,13 L7,10 L12.1961524,7 L13.5965675,7 C14.701137,7 15.5965675,7.8954305 15.5965675,9 C15.5965675,9.2333031 15.5557471,9.46480708 15.4759527,9.68404029 L14.8108973,11.511265 L18.2829015,12.7749711 L17.5988612,14.6543564 L14.1268571,13.3906502 L13.4418419,15.2727138 L14.7277662,17.5 L13.5219949,22 L11.4514425,22 L12.5815019,17.7825611 L11.4247639,15.7790322 L11.1637758,15.6840403 L9.95686516,19 L5.5,19 L5.5,17 L8.55645008,17 L11.1319747,9.9238044 L9,11.1547005 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>55 devices - imac</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-168.000000, -168.000000)" fill="#000000">
+            <g id="icons/hardware/desktop-apple" transform="translate(168.000000, 168.000000)">
+                <rect id="bg-icon" fill-rule="evenodd" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M21,4 L3,4 L3,15 L21,15 L21,4 Z M9,21 C9.66666667,21 10,20.3333333 10,19 L14,19 C14,20.3333333 14.3333333,21 15,21 L17.5,21 C17.7761424,21 18,21.2238576 18,21.5 C18,21.7761424 17.7761424,22 17.5,22 L6.5,22 C6.22385763,22 6,21.7761424 6,21.5 C6,21.2238576 6.22385763,21 6.5,21 L9,21 Z M21,2 C22.1045695,2 23,2.8954305 23,4 L23,17 C23,18.1045695 22.1045695,19 21,19 L3,19 C1.8954305,19 1,18.1045695 1,17 L1,4 C1,2.8954305 1.8954305,2 3,2 L21,2 Z M12,18 C12.5522847,18 13,17.5522847 13,17 C13,16.4477153 12.5522847,16 12,16 C11.4477153,16 11,16.4477153 11,17 C11,17.5522847 11.4477153,18 12,18 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

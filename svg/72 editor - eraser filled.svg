@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>72 editor - eraser filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-312.000000, -216.000000)">
+            <g id="icons/eraser" transform="translate(312.000000, 216.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M16,18 L21,18 L21,20 L14,20 L16,18 Z M15.9142136,4.91421356 L20.0839384,9.08393837 C20.864987,9.86498695 20.864987,11.1313169 20.0839384,11.9123655 L20.0820903,11.9142111 L12,19.9752197 L6.5,19.9752197 L3.76018265,16.9098986 C3.05307352,16.1187814 3.08684782,14.9131522 3.83713767,14.1628623 L13.0857864,4.91421356 C13.866835,4.13316498 15.133165,4.13316498 15.9142136,4.91421356 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

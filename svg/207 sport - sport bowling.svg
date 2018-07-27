@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>207 sport - sport bowling</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-840.000000, -792.000000)" fill="#000000">
+            <g id="icons/sport/type/bowling" transform="translate(840.000000, 792.000000)">
+                <g id="sport/type/bowling">
+                    <rect id="ic-background" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M7,10 C5.8954305,10 5,9.1045695 5,8 C5,6.8954305 5.8954305,6 7,6 C8.1045695,6 9,6.8954305 9,8 C9,9.1045695 8.1045695,10 7,10 Z M15.0649875,3.1169775 L16.0369556,4.86652003 C14.6997432,5.5441578 13.5375205,6.60488555 12.7320508,8 L17.9282032,11 L19,15 L22,15 L22,17 L19,17 C18.0947886,17 17.3024343,16.3920051 17.0681483,15.5176381 L16.5989262,13.766477 L15,16.5358984 L15,21 L13,21 L13,16 L14.3971143,13.580127 L11,11.6188022 L11,14 C11,14.7145312 10.6188022,15.3747852 10,15.7320508 L7.53589838,17.1547005 L6.53589838,15.4226497 L9,14 L9,10.4641016 L11,7 C11.9935335,5.27914947 13.4213014,3.96530943 15.0649875,3.1169775 Z M4,21 C2.8954305,21 2,20.1045695 2,19 C2,17.8954305 2.8954305,17 4,17 C5.1045695,17 6,17.8954305 6,19 C6,20.1045695 5.1045695,21 4,21 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

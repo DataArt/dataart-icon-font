@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>219 transport - parking payment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-216.000000, -840.000000)">
+            <g id="icons/transport/parking_payment" transform="translate(216.000000, 840.000000)">
+                <polygon id="Shape-Copy-19" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M21,16 L11,16 L11,21 L6,21 C4.34314575,21 3,19.6568542 3,18 L3,6 C3,4.34314575 4.34314575,3 6,3 L18,3 C19.6568542,3 21,4.34314575 21,6 L21,16 Z M8,6 L8,18 L10,18 L10,14 L13,14 C15.209139,14 17,12.209139 17,10 C17,7.790861 15.209139,6 13,6 L8,6 Z M10,8 L13,8 C14.1045695,8 15,8.8954305 15,10 C15,11.1045695 14.1045695,12 13,12 L10,12 L10,8 Z M12,17 L23,17 L23,24 L12,24 L12,17 Z M22,22.0630087 L22,18.9369913 C21.4745818,18.801758 21.0327236,18.4583812 20.7675644,18 L14.7324356,18 C14.3866262,18.5978014 13.7402824,19 13,19 L13,22 C13.7402824,22 14.3866262,22.4021986 14.7324356,23 L20.7675644,23 C21.0327236,22.5416188 21.4745818,22.198242 22,22.0630087 Z M17.5,22 C16.6715729,22 16,21.3284271 16,20.5 C16,19.6715729 16.6715729,19 17.5,19 C18.3284271,19 19,19.6715729 19,20.5 C19,21.3284271 18.3284271,22 17.5,22 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

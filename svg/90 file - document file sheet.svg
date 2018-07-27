@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>90 file - document file sheet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-840.000000, -264.000000)" fill="#000000">
+            <g id="icons/file/sheet" transform="translate(840.000000, 264.000000)">
+                <rect id="bg" fill-rule="evenodd" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M18,9 L13,9 L13,4 L6,4 L6,20 L18,20 L18,9 Z M6,22 C4.8954305,22 4,21.1045695 4,20 L4,4 C4,2.8954305 4.8954305,2 6,2 L14,2 L20,8 L20,20 C20,21.1045695 19.1045695,22 18,22 L6,22 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

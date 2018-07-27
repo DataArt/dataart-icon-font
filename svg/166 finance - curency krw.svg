@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>166 finance - curency krw</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-408.000000, -600.000000)">
+            <g id="icons/finance/currency/krw" transform="translate(408.000000, 600.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M2,3 L4,3 L5.33,9 L9.33,9 L10.67,3 L13.33,3 L14.67,9 L18.67,9 L20,3 L22,3 L20.67,9 L22,9 L22,11 L20.22,11 L19.78,13 L22,13 L22,15 L19.33,15 L18,21 L15.33,21 L14,15 L10,15 L8.67,21 L6,21 L4.67,15 L2,15 L2,13 L4.22,13 L3.78,11 L2,11 L2,9 L3.33,9 L2,3 Z M13.11,11 L10.89,11 L10.44,13 L13.56,13 L13.11,11 Z M7.33,18 L8,15 L6.67,15 L7.33,18 Z M8.89,11 L5.78,11 L6.22,13 L8.44,13 L8.89,11 Z M16.67,18 L17.33,15 L16,15 L16.67,18 Z M18.22,11 L15.11,11 L15.56,13 L17.78,13 L18.22,11 Z M12,6 L11.33,9 L12.67,9 L12,6 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

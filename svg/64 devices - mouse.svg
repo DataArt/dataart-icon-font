@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>64 devices - mouse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-552.000000, -168.000000)">
+            <g id="icons/hardware/mouse" transform="translate(552.000000, 168.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M13,2 L15,2 C17.209139,2 19,3.790861 19,6 L19,9 L13,9 L13,2 Z M11,2 L11,9 L5,9 L5,6 C5,3.790861 6.790861,2 9,2 L11,2 Z M19,11 L19,18 C19,20.209139 17.209139,22 15,22 L9,22 C6.790861,22 5,20.209139 5,18 L5,11 L19,11 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

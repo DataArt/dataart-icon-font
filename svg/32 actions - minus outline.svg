@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>32 actions - minus outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-1512.000000, -24.000000)">
+            <g id="icons/action/minus_circle_outline" transform="translate(1512.000000, 24.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M12,2 C17.53,2 22,6.47 22,12 C22,17.53 17.53,22 12,22 C6.47,22 2,17.53 2,12 C2,6.47 6.47,2 12,2 Z M12,4 C7.5745695,4 4,7.5745695 4,12 C4,16.4254305 7.5745695,20 12,20 C16.4254305,20 20,16.4254305 20,12 C20,7.5745695 16.4254305,4 12,4 Z M17,10.9999995 L17,12.9999995 L7,12.9999995 L7,10.9999995 L17,10.9999995 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

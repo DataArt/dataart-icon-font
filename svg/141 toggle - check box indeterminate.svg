@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>141 toggle - check box indeterminate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-120.000000, -408.000000)">
+            <g id="icons/toggle/check_box_indeterminate" transform="translate(120.000000, 408.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M19,3 C20.11,3 21,3.9 21,5 L21,19 C21,20.1 20.11,21 19,21 L5,21 C3.89,21 3,20.1 3,19 L3,5 C3,3.9 3.89,3 5,3 L19,3 Z M7,11 L7,13 L17,13 L17,11 L7,11 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

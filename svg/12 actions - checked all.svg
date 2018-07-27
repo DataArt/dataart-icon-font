@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>12 actions - checked all</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-552.000000, -24.000000)">
+            <g id="icons/action/done_all" transform="translate(552.000000, 24.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M11.4784271,13.2357864 L10.0642135,11.8215729 L16.3,5.58578644 L17.7142135,7 L11.4784271,13.2357864 Z M7.23578641,17.4784271 L5.79999995,18.9142136 L0.38578639,13.5 L1.79999995,12.0857864 L5.79999995,16.0857864 L5.82157285,16.0642135 L7.23578641,17.4784271 Z M22,5.58578644 L23.4142136,7 L11.5,18.9142136 L6.08578644,13.5 L7.5,12.0857864 L11.5,16.0857864 L22,5.58578644 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>68 editor - attach hyperlink</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-24.000000, -216.000000)">
+            <g id="icons/editor/attach_link" transform="translate(24.000000, 216.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M8,14 L8,12 L16,12 L16,14 L8,14 Z M11,8 L11,10 L7,10 C5.34314575,10 4,11.3431458 4,13 C4,14.6568542 5.34314575,16 7,16 L11,16 L11,18 L7,18 C4.23857625,18 2,15.7614237 2,13 C2,10.2385763 4.23857625,8 7,8 L11,8 Z M13,10 L13,8 L17,8 C19.7614237,8 22,10.2385763 22,13 C22,15.7614237 19.7614237,18 17,18 L13,18 L13,16 L17,16 C18.6568542,16 20,14.6568542 20,13 C20,11.3431458 18.6568542,10 17,10 L13,10 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

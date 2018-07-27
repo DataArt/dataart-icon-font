@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>187 finance - credit card cancel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-216.000000, -696.000000)">
+            <g id="icons/finance/card/credit_card_cancel" transform="translate(216.000000, 696.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M19,8 L19,6 L3,6 L3,8 L19,8 Z M19.7928932,17.2928932 L21.5857864,15.5 L23,16.9142136 L21.2071068,18.7071068 L23,20.5 L21.5857864,21.9142136 L19.7928932,20.1213203 L18,21.9142136 L16.5857864,20.5 L18.3786797,18.7071068 L16.5857864,16.9142136 L18,15.5 L19.7928932,17.2928932 Z M19,12 L3,12 L3,18 L14,18 L14,20 L3,20 C1.89,20 1,19.1 1,18 L1,6 C1,4.89 1.89,4 3,4 L19,4 C20.1045695,4 21,4.8954305 21,6 L21,13 L19,13 L19,12 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

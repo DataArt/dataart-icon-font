@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>104 logo - twitter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-72.000000, -312.000000)">
+            <g id="icons/logo/twitter" transform="translate(72.000000, 312.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M22.92,5 C22.15,5.35 21.32,5.58 20.46,5.69 C21.34,5.16 22.02,4.32 22.34,3.31 C21.51,3.81 20.59,4.16 19.62,4.36 C18.83,3.5 17.72,3 16.46,3 C14.11,3 12.19,4.92 12.19,7.29 C12.19,7.63 12.23,7.96 12.3,8.27 C8.74,8.09 5.57,6.38 3.46,3.79 C3.09,4.42 2.88,5.16 2.88,5.94 C2.88,7.43 3.63,8.75 4.79,9.5 C4.08,9.5 3.42,9.3 2.84,9 C2.84,9 2.84,9 2.84,9.03 C2.84,11.11 4.32,12.85 6.28,13.24 C5.92,13.34 5.54,13.39 5.15,13.39 C4.88,13.39 4.61,13.36 4.35,13.31 C4.89,15 6.46,16.26 8.35,16.29 C6.89,17.45 5.04,18.13 3.02,18.13 C2.68,18.13 2.34,18.11 2,18.07 C3.9,19.29 6.16,20 8.58,20 C16.46,20 20.79,13.46 20.79,7.79 C20.79,7.6 20.79,7.42 20.78,7.23 C21.62,6.63 22.34,5.87 22.92,5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

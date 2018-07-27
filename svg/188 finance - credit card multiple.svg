@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>188 finance - credit card multiple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-264.000000, -696.000000)">
+            <g id="icons/finance/card/credit_card_multiple" transform="translate(264.000000, 696.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M21,8 L21,6 L7,6 L7,8 L21,8 Z M21,16 L21,11 L7,11 L7,16 L21,16 Z M21,4 C22.1045695,4 23,4.8954305 23,6 L23,16 C23,17.1045695 22.1045695,18 21,18 L7,18 C5.89,18 5,17.1 5,16 L5,6 C5,4.89 5.89,4 7,4 L21,4 Z M3,20 L18,20 L18,22 L3,22 C1.8954305,22 1,21.1045695 1,20 L1,9 L3,9 L3,20 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

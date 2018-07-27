@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>179 finance - chart arc</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-168.000000, -648.000000)">
+            <g id="icons/finance/chart/arc" transform="translate(168.000000, 648.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M11,2.04937524 L11,6.08295844 C8.16228666,6.55903653 6,9.02700371 6,12 C6,15.3137085 8.6862915,18 12,18 C14.5466817,18 16.7227876,16.4133766 17.5937496,14.1746979 L21.5454296,14.9896903 C20.2743532,19.0521205 16.4814337,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.8146519 5.94667731,2.55109967 11,2.04937524 Z M13,2.04937524 C15.0112246,2.24906178 16.8471518,3.0446382 18.3287318,4.25705467 L15.4765344,7.10925208 C14.7536018,6.59443708 13.9116566,6.23590544 13,6.08295844 L13,2.04937524 Z M19.7429453,5.67126824 C21.1536347,7.39513881 22,9.5987298 22,12 C22,12.3479469 21.9822294,12.6917432 21.9475463,13.0305309 L17.9961983,12.2156069 C17.9987257,12.1440498 18,12.0721737 18,12 C18,10.7041696 17.589209,9.50428451 16.8907479,8.52346564 L19.7429453,5.67126824 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>96 file - cloud upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-1128.000000, -264.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="icons/common/file/cloud_upload" transform="translate(1128.000000, 264.000000)">
+                <path d="M22,15 C22,17.209139 20.209139,19 18,19 L7,19 C4.23857625,19 2,16.7614237 2,14 C2,11.7543525 3.49000961,9.82120949 5.58062879,9.20439897 C6.67717693,6.68588075 9.17739877,5 12,5 C15.5652157,5 18.5079126,7.66532009 18.944221,11.1120907 C20.6976796,11.5364324 22,13.1161296 22,15 Z M10,13 L10,16 L14,16 L14,13 L16,13 L12,9 L8,13 L10,13 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>194 health care - laboratory</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-168.000000, -744.000000)">
+            <g id="icons/healthcare/laboratory" transform="translate(168.000000, 744.000000)">
+                <polygon id="Rectangle" fill-opacity="0" fill="#FFB9B9" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M16.0483982,8.28875236 C17.8345656,9.55716548 19,11.6424818 19,14 C19,16.5463251 17.6404178,18.7751029 15.6075866,20 L19,20 L19,22 L5,22 L5,20 L8.39241339,20 C7.21667699,19.2915515 6.26615338,18.2472887 5.67363116,17 L3,17 L3,15 L11,15 L11,17 L7.99963381,17 C8.91184014,18.2144467 10.3641822,19 12,19 C14.7614237,19 17,16.7614237 17,14 C17,12.1931778 16.0416225,10.6101967 14.6054807,9.73166985 L10.8284271,13.5087235 L8,10.6802963 L15.1758035,3.50449282 L18.0042306,6.33291994 L16.0483982,8.28875236 Z M17.6802963,2 L19.3401482,3.65985184 L17.9259346,5.0740654 L16.2660828,3.41421356 L17.6802963,2 Z" id="Combined-Shape" fill="#1C1C1C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

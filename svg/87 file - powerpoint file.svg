@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>87 file - powerpoint file</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-696.000000, -264.000000)">
+            <g id="icons/file/powerpoint" transform="translate(696.000000, 264.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M9.8,13.4 L12.3,13.4 C13.8,13.4 14.46,13.12 15.1,12.58 C15.74,12.03 16,11.25 16,10.23 C16,9.26 15.75,8.5 15.1,7.88 C14.45,7.29 13.83,7 12.3,7 L8,7 L8,17 L9.8,17 L9.8,13.4 Z M19,3 C20.1045695,3 21,3.8954305 21,5 L21,19 C21,20.1045695 20.1045695,21 19,21 L5,21 C3.8954305,21 3,20.1045695 3,19 L3,5 C3,3.89 3.9,3 5,3 L19,3 Z M9.8,12 L9.8,8.4 L12.1,8.4 C12.76,8.4 13.27,8.65 13.6,9 C13.93,9.35 14.1,9.72 14.1,10.24 C14.1,10.8 13.92,11.19 13.6,11.5 C13.28,11.81 12.9,12 12.22,12 L9.8,12 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

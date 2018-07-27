@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>45 audio - volume down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-408.000000, -72.000000)">
+            <g id="icons/audio/volume_down" transform="translate(408.000000, 72.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M4,9 L8,9 L13,4 L13,20 L8,15 L4,15 L4,9 Z M16.2426407,16.2426407 L14.8284271,14.8284271 C15.5522847,14.1045695 16,13.1045695 16,12 C16,10.8006182 15.4721255,9.72452813 14.6360318,8.99138511 L16.0522826,7.57513435 C17.2493937,8.67204181 18,10.2483642 18,12 C18,13.6568542 17.3284271,15.1568542 16.2426407,16.2426407 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

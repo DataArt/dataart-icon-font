@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>48 audio - mic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-552.000000, -72.000000)">
+            <g id="icons/audio/mic" transform="translate(552.000000, 72.000000)">
+                <polygon id="bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M11,21 L11,17.9291111 C7.60770586,17.4438815 5,14.5264719 5,11 L7,11 C7,13.7614237 9.23857625,16 12,16 C14.7614237,16 17,13.7614237 17,11 L19,11 C19,14.5264719 16.3922941,17.4438815 13,17.9291111 L13,21 L16,21 L16,22 L8,22 L8,21 L11,21 Z M12,2 C13.6568542,2 15,3.34314575 15,5 L15,11 C15,12.6568542 13.6568542,14 12,14 C10.3431458,14 9,12.6568542 9,11 L9,5 C9,3.34314575 10.3431458,2 12,2 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

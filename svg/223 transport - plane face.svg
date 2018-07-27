@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>223 transport - plane face</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DA-iconset-alpha" transform="translate(-456.000000, -840.000000)">
+            <g id="icons/transport/plane_face" transform="translate(456.000000, 840.000000)">
+                <polygon id="Shape-Copy-27" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M12,18 C9.23857625,18 7,15.7614237 7,13 C7,10.2385763 9.23857625,8 12,8 C14.7614237,8 17,10.2385763 17,13 C17,15.7614237 14.7614237,18 12,18 Z M3.5,17 C2.67157288,17 2,16.3284271 2,15.5 C2,14.6715729 2.67157288,14 3.5,14 C4.32842712,14 5,14.6715729 5,15.5 C5,16.3284271 4.32842712,17 3.5,17 Z M20.5,17 C19.6715729,17 19,16.3284271 19,15.5 C19,14.6715729 19.6715729,14 20.5,14 C21.3284271,14 22,14.6715729 22,15.5 C22,16.3284271 21.3284271,17 20.5,17 Z M9.3541756,10 C8.76376971,10.521103 8.32837763,11.2137757 8.12601749,12 L15.8739825,12 C15.6716224,11.2137757 15.2362303,10.521103 14.6458244,10 L9.3541756,10 Z M18,12 L24,12 L24,14 L18,14 L18,12 Z M0,12 L6,12 L6,14 L0,14 L0,12 Z M13,5 L13,7 L11,7 L11,5 L13,5 Z" id="Combined-Shape" fill="#000000" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>
